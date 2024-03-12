@@ -8,9 +8,9 @@ Time spent: **5** hours spent in total
 
 ## Summary
 
-**Animal App** is an android app that was riddle with some pretty nasty Kotlin bugs.  With those gone, it's a collection of widgets for a variety of purposes!  **Change or add to this description**
+**Animal App** is an Android app that was riddled with some pretty nasty Kotlin bugs.  With those gone, it's a collection of widgets for a variety of purposes!  **A clone version of the Twitch signup page for animals**
 
-If I had to describe this project in three (3) emojis, they would be: 😊, 💻, 🔍
+If I had to describe this project in three (3) emojis, they would be: **😊, 💻, 🔍**
 
 ## Application Features
 
@@ -46,9 +46,9 @@ I have chosen to duplicate the following layout from the **Twitch SignUp form** 
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://imgur.com/g9zajUW.gif' title='Video Demo' width='' alt='Video Demo' />
 
-GIF created with **your chosen GIF tool**
+GIF created with **ScreenToGif**
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
@@ -65,7 +65,7 @@ It is for an app that **brief description**.
 
 ## Notes
 
-Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
+In this project, I gained a lot of experience in working with Android Studio. It helped me understand how to work with layouts and constraints and debug app layouts. Additionally, I had fun creating an animal version of it.   
 
 ## License
 
