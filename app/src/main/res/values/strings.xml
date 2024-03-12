@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">And101_Project_3</string>
+    <string name="login_option">📞 use phone instead</string>
+    <string name="TandC">By clicking Sign Up, you are indicating that you have read and acknowledge the <font color="#791FAF">Terms of services</font> and <font color="#791FAF">Privacy Notice</font>.</string>
+</resources>
