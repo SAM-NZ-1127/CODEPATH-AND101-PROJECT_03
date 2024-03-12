@@ -61,11 +61,10 @@ Here is my entry for the "Create a second layout, this time for an original, per
 
 It is for an app that **brief description**.
 
-<img src='http://example.com/link/to/your/image.png' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
 
 ## Notes
 
-In this project, I gained a lot of experience in working with Android Studio. It helped me understand how to work with layouts and constraints and debug app layouts. Additionally, I had fun creating an animal version of it.   
+This project gave me a lot of experience working with Android Studio. It helped me understand how to work with layouts and constraints and debug app layouts. Additionally, I had fun creating an animal version of it.   
 
 ## License
 
