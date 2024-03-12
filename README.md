@@ -40,7 +40,7 @@ The following EXTRA features are implemented:
 
 I have chosen to duplicate the following layout from the **Twitch SignUp form** app:
 
-<img src='https://cdn.designvault.io/media/20230109205844/image-27.jpg' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
+<img src='https://cdn.designvault.io/media/20230109205844/image-27.jpg' title='Chosen Screenshot' width='10cm' alt='Chosen Screenshot' />
 
 ## Video Demo
 
