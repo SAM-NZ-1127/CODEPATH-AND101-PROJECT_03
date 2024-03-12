@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">AnimalApps</string>
-    <string name="login_option">📞 use phone instead</string>
-    <string name="TandC">By clicking Sign Up, you are indicating that you have read and acknowledge the <font color="#791FAF">Terms of services</font> and <font color="#791FAF">Privacy Notice</font>.</string>
+    <string name="login_option">🐾 use paw print instead</string>
+    <string name="TandC">By clicking Sign up, you are indicating that you will follow rule of <font color="#791FAF">Lion King Simba</font>.</string>
 </resources>
